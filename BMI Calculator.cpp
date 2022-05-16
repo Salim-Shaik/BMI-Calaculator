@@ -24,6 +24,7 @@ int main ()
         {
             cout<<"utc";
     }
+    system("pause")
     return 0;
 }
 
